@@ -6,4 +6,4 @@ length = len(s)
 
 # print will return every second letter of s
 
-print (s[0:length:s])
+print(s[0:length:s])
